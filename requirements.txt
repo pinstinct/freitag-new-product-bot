@@ -1,4 +1,4 @@
 beautifulsoup4==4.8.2
 flake8==3.7.9
 python-telegram-bot==12.4.2
-requests==2.23.0
+requests==2.31.0
